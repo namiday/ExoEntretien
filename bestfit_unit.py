@@ -39,6 +39,7 @@ from guidata.qthelpers import qt_app_context
 from guiqwt.plot import ImageDialog
 
 from processing import best_fit_translation
+#from processing2 import best_fit_translation
 from vistools import add_circles
 
 
